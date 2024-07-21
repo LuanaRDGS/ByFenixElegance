@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\",
+  "WorkspaceRootPath": "C:\\Users\\Basis\\Documents\\GitHub\\ByFenixElegance\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|c:\\users\\basis\\projeto\\byfenix\\backend\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|c:\\users\\basis\\projeto\\byfenix\\backend\\backend\\backend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|solutionrelative:backend\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|c:\\users\\basis\\projeto\\byfenix\\backend\\backend\\backend\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|solutionrelative:backend\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|c:\\users\\basis\\projeto\\byfenix\\backend\\backend\\backend\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|solutionrelative:backend\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|c:\\users\\basis\\projeto\\byfenix\\backend\\backend\\backend\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B03AC8D-0992-4E4A-8EAC-8FA975CC9C54}|backend\\backend.csproj|solutionrelative:backend\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{036BA72C-10BA-4A7B-B954-EE001884DC1A}|backend\\backend.csproj|c:\\users\\basis\\documents\\github\\byfenixelegance\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036BA72C-10BA-4A7B-B954-EE001884DC1A}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Program.cs",
-              "RelativeDocumentMoniker": "backend\\Program.cs",
-              "ToolTip": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Program.cs",
-              "RelativeToolTip": "backend\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:21:48.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "backend\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "backend\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T23:22:01.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "backend\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "backend\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T23:21:41.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "backend\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "backend\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T23:21:38.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "backend\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Basis\\projeto\\byfenix\\backend\\backend\\backend\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "backend\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:21:30.917Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Basis\\Documents\\GitHub\\ByFenixElegance\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Basis\\Documents\\GitHub\\ByFenixElegance\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:15:37.841Z",
+              "EditorCaption": ""
             }
           ]
         }
